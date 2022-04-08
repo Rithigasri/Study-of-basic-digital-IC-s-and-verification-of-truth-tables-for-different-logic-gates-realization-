@@ -88,6 +88,8 @@ endmodule
 ## OUTPUT:
 ### LOGIC SYMBOL:
 ![Output](symbol.png)
+
+
 ### TRUTH TABLE:
 ![Output](table.png)
 ### RTL REALIZATION:
